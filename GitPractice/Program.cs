@@ -1,2 +1,14 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, Ashish! How are you. What is going on?");
+﻿void MyFirstMethod() 
+{
+    // Do Something
+}
+
+void MySecondMethod()
+{
+    // Do Something
+}
+
+void MyTHirdMethod()
+{
+    // Do Something
+}
